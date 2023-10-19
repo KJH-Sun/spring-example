@@ -1,6 +1,7 @@
-package juhyun.practice.domain.model;
+package juhyun.practice.domain.model.article;
 
 import java.util.Collection;
+import juhyun.practice.domain.model.comment.Comment;
 import juhyun.practice.infrastructure.entity.ArticleEntity.ArticleType;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

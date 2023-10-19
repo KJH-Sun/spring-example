@@ -1,12 +1,11 @@
 package juhyun.practice.domain.usecase.article;
 
-import java.util.Collection;
 import java.util.List;
-import juhyun.practice.domain.converter.ArticleConverter;
-import juhyun.practice.domain.converter.CommentConverter;
+import juhyun.practice.domain.converter.article.ArticleConverter;
+import juhyun.practice.domain.converter.comment.CommentConverter;
 import juhyun.practice.domain.exception.ResourceNotFoundException;
-import juhyun.practice.domain.model.Article;
-import juhyun.practice.domain.model.Comment;
+import juhyun.practice.domain.model.article.Article;
+import juhyun.practice.domain.model.comment.Comment;
 import juhyun.practice.infrastructure.repository.article.ArticleRepository;
 import juhyun.practice.infrastructure.repository.comment.CommentRepository;
 import lombok.RequiredArgsConstructor;

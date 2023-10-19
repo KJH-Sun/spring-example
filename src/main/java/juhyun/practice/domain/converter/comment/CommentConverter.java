@@ -1,6 +1,6 @@
-package juhyun.practice.domain.converter;
+package juhyun.practice.domain.converter.comment;
 
-import juhyun.practice.domain.model.Comment;
+import juhyun.practice.domain.model.comment.Comment;
 import juhyun.practice.infrastructure.entity.CommentEntity;
 import lombok.experimental.UtilityClass;
 
