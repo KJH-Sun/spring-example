@@ -1,4 +1,4 @@
-package juhyun.practice.domain.model;
+package juhyun.practice.domain.model.comment;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

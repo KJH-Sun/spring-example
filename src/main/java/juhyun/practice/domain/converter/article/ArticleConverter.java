@@ -1,6 +1,6 @@
-package juhyun.practice.domain.converter;
+package juhyun.practice.domain.converter.article;
 
-import juhyun.practice.domain.model.Article;
+import juhyun.practice.domain.model.article.Article;
 import juhyun.practice.infrastructure.entity.ArticleEntity;
 import lombok.experimental.UtilityClass;
 
